@@ -1,3 +1,3 @@
 [submodule "snake"]
 	path = snake
-	url = https://github.com/camerondm9/Snake.js.git
+	url = https://github.com/camerondm9/snake.js-client.git
